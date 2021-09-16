@@ -2,7 +2,7 @@
 <h1 align="center">I'm Shravya Karanth</h1>
 <h3 align="center">Still A Growing Butterfly</h3><br><br>
 <h4 align="left">Motto :</h4>
-<p align="left">if sad()==True:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sad().stop()<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beAwesome()<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pass<p>
+<p align="left">if sad()=True:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sad().stop()<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beAwesome()<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pass<p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravyaakaranth&label=Profile%20views&color=0e75b6&style=flat" alt="shravyaakaranth" /> </p>
 
