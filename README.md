@@ -5,6 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravyaakaranth&label=Profile%20views&color=0e75b6&style=flat" alt="shravyaakaranth" /> </p>
 
+<p>
+  <img
+    align="left"
+    src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif"
+    alt="shravyaakaranth"
+  />
+</p>
+
+
 <!--
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
