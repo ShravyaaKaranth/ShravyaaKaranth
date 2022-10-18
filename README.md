@@ -9,11 +9,17 @@
   <img
     align="left"
     src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-    width="60";
+    width="100";
+    alt="shravyaakaranth"
+  />
+  <img
+    align="right"
+    src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
+    width="100";
     alt="shravyaakaranth"
   />
 </p>
-
+<br><br>
 
 <!--
 <p align="left">
