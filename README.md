@@ -30,7 +30,7 @@
   /></a>
 </p>
 -->
-  &nbsp;&nbsp;&nbsp; - 📫 Reach me Here **shravyakaranth64715@gmail.com**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📫 Reach me Here **shravyakaranth64715@gmail.com**
 
 <br><br><br>
 
