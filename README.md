@@ -21,7 +21,7 @@
 </p>
 <br><br><br>
 
-<!--
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -29,7 +29,7 @@
       alt="shravyaakaranth"
   /></a>
 </p>
--->
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📫 Reach me Here **shravyakaranth64715@gmail.com**
 
 <br><br><br>
