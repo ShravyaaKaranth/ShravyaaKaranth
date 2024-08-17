@@ -23,11 +23,10 @@
 
 
 <p align="left">
-  <a
-    ><img
+  <img
       src="https://github-profile-trophy.vercel.app/?username=shravyaakaranth"
       alt="shravyaakaranth"
-  /></a>
+  />
 </p>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📫 Reach me Here **shravyakaranth64715@gmail.com**
