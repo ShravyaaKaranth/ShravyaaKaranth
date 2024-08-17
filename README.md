@@ -21,13 +21,14 @@
 </p>
 <br><br><br>
 
-
+<!--
 <p align="left">
   <img
       src="https://github-profile-trophy.vercel.app/?username=shravyaakaranth"
       alt="shravyaakaranth"
   />
 </p>
+-->
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📫 Reach me Here **shravyakaranth64715@gmail.com**
 
