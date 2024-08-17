@@ -23,7 +23,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/ShravyaaKaranth"
+  <a
     ><img
       src="https://github-profile-trophy.vercel.app/?username=shravyaakaranth"
       alt="shravyaakaranth"
